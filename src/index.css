@@ -503,6 +503,7 @@ body {
   align-items: center;
   box-shadow: 0 4px 24px rgba(184,92,44,0.3);
   transition: transform 0.2s;
+  text-decoration: none;
 }
 
 .btn-offer span { font-size: 12px; font-weight: 400; opacity: 0.75; margin-top: 2px; }

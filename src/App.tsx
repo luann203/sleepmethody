@@ -1,6 +1,6 @@
 import { useRef, useEffect } from 'react'
 
-const OFFER_ID = 'oferta'
+const OFFER_ID = 'offer'
 
 function StarIcon({ fill = '#FABB05' }: { fill?: string }) {
   return (
@@ -70,105 +70,105 @@ export default function App() {
             </div>
             <div className="hero-from-text">
               <strong>Sofia Martins</strong>
-              Consultora de sono infantil · mãe da Lia e do Rafael
+              Infant sleep consultant · mom of Lia and Rafael
             </div>
           </div>
 
-          <h1>A técnica dos 3 toques que faz qualquer bebê dormir em <em>menos de 30 segundos.</em></h1>
+          <h1>The 3-step baby massage that gets any baby to sleep in <em>under 30 seconds.</em></h1>
 
-          <p className="hero-sub">Sem choro. Sem birra. Sem método complicado. <strong>Só 3 movimentos simples</strong> que qualquer mãe pode aprender hoje.</p>
+          <p className="hero-sub">No crying. No fuss. No complicated method. <strong>Just 3 simple moves</strong> any parent can learn today.</p>
 
           <div className="hero-cta-wrap">
             <button className="btn-main" type="button" onClick={scrollToOffer}>
-              Quero aprender os 3 toques
-              <span>Acesso imediato por apenas $27</span>
+              I want to learn the 3 steps
+              <span>Instant access for just $27</span>
             </button>
-            <p className="hero-reassure">🔒 Garantia de 7 dias · sem perguntas</p>
+            <p className="hero-reassure">🔒 7-day guarantee · no questions asked</p>
           </div>
         </div>
       </section>
 
       <section className="pain">
         <div className="pain-wrap">
-          <h2>Se você está lendo isso, provavelmente está exausta.</h2>
+          <h2>If you&apos;re reading this, you&apos;re probably exhausted.</h2>
 
-          <p>Não o tipo de cansaço que uma boa noite de sono resolve. É aquele cansaço que vai se acumulando dia após dia, noite após noite, até você chegar num ponto em que mal se lembra do próprio nome.</p>
+          <p>Not the kind of tired that one good night&apos;s sleep fixes. It&apos;s the kind that builds up day after day, night after night, until you can barely remember your own name.</p>
 
-          <p>Você ama seu bebê mais do que qualquer coisa. Mas tem noites que você está no chão, literalmente, sem saber mais o que tentar. Já fez música, amamentação, horas de colo, transferência no modo ninja. <strong>Às vezes funciona. Às vezes não.</strong> E essa incerteza é o que mais cansa de verdade.</p>
+          <p>You love your baby more than anything. But some nights you&apos;re on the floor—literally—not knowing what else to try. You&apos;ve tried music, nursing, hours of holding, ninja-mode transfers. <strong>Sometimes it works. Sometimes it doesn&apos;t.</strong> And that uncertainty is what wears you out the most.</p>
 
           <ul className="pain-list">
-            <li>Acorda com o bebê toda hora da noite</li>
-            <li>Passa horas tentando fazer ele dormir</li>
-            <li>Já leu tudo e cada um fala uma coisa diferente</li>
-            <li>Sente culpa quando chora junto com o bebê</li>
-            <li>Está exausta, mas com medo de tentar algo novo</li>
+            <li>You wake up with the baby every hour at night</li>
+            <li>You spend hours trying to get them to sleep</li>
+            <li>You&apos;ve read everything and everyone says something different</li>
+            <li>You feel guilty when you cry along with the baby</li>
+            <li>You&apos;re exhausted but afraid to try something new</li>
           </ul>
 
-          <p className="pain-close">Você não está fazendo nada errado. Simplesmente ninguém te ensinou o que funciona de verdade.</p>
+          <p className="pain-close">You&apos;re not doing anything wrong. Nobody ever taught you what actually works.</p>
         </div>
       </section>
 
       <section className="about">
         <div className="about-wrap">
-          <span className="about-label">Quem eu sou e por que você deveria me ouvir</span>
+          <span className="about-label">Who I am and why you should listen</span>
           <div className="about-inner">
             <div className="about-avatar">
               <img src="/2.webp" alt="Sofia Martins" />
             </div>
             <div className="about-content">
-              <h2>Oi, eu sou a Sofia.</h2>
+              <h2>Hi, I&apos;m Sofia.</h2>
 
-              <p>Sou consultora de sono infantil há mais de 8 anos. Já acompanhei mais de 2.000 famílias, de recém-nascidos a crianças de 2 anos, em diferentes situações e contextos.</p>
+              <p>I&apos;ve been an infant sleep consultant for over 8 years. I&apos;ve worked with more than 2,000 families—from newborns to 2-year-olds—in all kinds of situations and contexts.</p>
 
-              <p>Não sou médica. Não sou pediatra. E isso, na minha opinião, é exatamente o que me dá uma perspectiva diferente. Eu vejo o que acontece <strong>depois que a consulta acaba</strong>, dentro das casas, nas madrugadas reais, com mães reais que estão no limite.</p>
+              <p>I&apos;m not a doctor. I&apos;m not a pediatrician. And that, in my view, is exactly what gives me a different perspective. I see what happens <strong>after the appointment ends</strong>—inside real homes, in the middle of the night, with real parents at their limit.</p>
 
               <div className="about-highlight">
-                &quot;A técnica dos 3 toques eu aprendi com mulheres mais velhas da minha família. Era um gesto natural, sem nome, sem protocolo. Algo que elas faziam sem pensar.&quot;
+                &quot;I learned the 3-step baby massage from older women in my family. It was a natural gesture, with no name, no protocol. Something they did without thinking.&quot;
               </div>
 
-              <p>Esse tipo de conhecimento não passa por consultório. Passa de mão em mão, de mãe para filha. Levei anos para entender o mecanismo por trás disso, estudar a fisiologia do sono infantil, testar com centenas de famílias reais e aperfeiçoar cada detalhe da sequência.</p>
+              <p>This kind of knowledge doesn&apos;t come from a doctor&apos;s office. It&apos;s passed hand to hand, mother to daughter. It took me years to understand the mechanism behind it, study infant sleep physiology, test it with hundreds of real families, and refine every detail of the sequence.</p>
 
-              <p>O que você vai aprender aqui não é teoria. É uma técnica refinada ao longo de anos de prática, com resultados que acompanhei de perto.</p>
+              <p>What you&apos;ll learn here isn&apos;t theory. It&apos;s a technique refined over years of practice, with results I&apos;ve seen up close.</p>
             </div>
           </div>
         </div>
       </section>
 
-      <div className="divider">O método</div>
+      <div className="divider">The method</div>
 
       <section className="method">
         <div className="method-wrap">
-          <h2>A massagem dos 3 toques</h2>
+          <h2>A 3-step baby massage</h2>
 
-          <p>Não é mágica. É fisiologia. O sistema nervoso do bebê responde de forma muito previsível a estímulos táteis específicos. Os 3 toques foram desenvolvidos para ativar exatamente essa resposta, em sequência, levando o bebê ao relaxamento profundo em segundos.</p>
+          <p>It&apos;s not magic. It&apos;s physiology. A baby&apos;s nervous system responds in a very predictable way to specific tactile stimuli. The 3 steps were designed to trigger that response in sequence, bringing the baby into deep relaxation in seconds.</p>
 
-          <p>O que diferencia essa técnica de uma massagem comum é a combinação de <strong>localização, pressão e ritmo</strong>. Cada detalhe importa, e é exatamente isso que o guia ensina.</p>
+          <p>What sets this apart from a regular massage is the combination of <strong>location, pressure, and rhythm</strong>. Every detail matters, and that&apos;s exactly what the guide teaches.</p>
 
           <div className="touches">
             <div className="touch">
               <div className="touch-num">1</div>
               <div>
-                <h3>O Toque da Cabeça</h3>
-                <p>Movimento suave no couro cabeludo que ativa os receptores de relaxamento e desacelera o sistema nervoso do bebê. É o primeiro passo, e o que prepara tudo que vem depois.</p>
+                <h3>The Head Touch</h3>
+                <p>Gentle movement on the scalp that activates relaxation receptors and slows the baby&apos;s nervous system. It&apos;s the first step and sets up everything that follows.</p>
               </div>
             </div>
             <div className="touch">
               <div className="touch-num">2</div>
               <div>
-                <h3>O Toque do Peito</h3>
-                <p>Pressão leve e ritmada sobre o esterno que sincroniza a respiração do bebê. Recria a sensação de segurança que ele sentiu dentro do útero.</p>
+                <h3>The Chest Touch</h3>
+                <p>Light, rhythmic pressure on the sternum that syncs the baby&apos;s breathing and recreates the sense of safety they felt in the womb.</p>
               </div>
             </div>
             <div className="touch">
               <div className="touch-num">3</div>
               <div>
-                <h3>O Toque do Pé</h3>
-                <p>Estimulação de um ponto específico na planta do pé que libera tensão acumulada e sinaliza ao cérebro que é hora de descansar. É o toque que fecha o ciclo.</p>
+                <h3>The Foot Touch</h3>
+                <p>Stimulation of a specific point on the sole of the foot that releases built-up tension and signals the brain that it&apos;s time to rest. It&apos;s the step that closes the cycle.</p>
               </div>
             </div>
           </div>
 
-          <p>No guia eu mostro exatamente onde tocar, com qual pressão, por quanto tempo e na ordem certa. Tem vídeo para cada toque e variações por faixa etária.</p>
+          <p>In the guide I show exactly where to touch, how much pressure to use, for how long, and in what order. There&apos;s video for each step and variations by age.</p>
         </div>
       </section>
 
@@ -180,7 +180,7 @@ export default function App() {
                 <div className="testi-google-avatar testi-google-avatar--initials">CR</div>
                 <div className="testi-google-meta">
                   <strong className="testi-google-name">Camila R.</strong>
-                  <span className="testi-google-sub">Mãe do Miguel, 4 meses</span>
+                  <span className="testi-google-sub">Mom of Miguel, 4 months</span>
                 </div>
               </div>
               <GoogleIcon />
@@ -191,33 +191,33 @@ export default function App() {
               </div>
               <div className="testi-google-verified">
                 <VerifiedBadge />
-                <span>Verificado</span>
+                <span>Verified</span>
               </div>
             </div>
-            <p className="testi-google-quote">&quot;Não acreditei quando vi. Eram 2h da manhã, meu filho acordado há mais de uma hora. Fiz os 3 toques pela primeira vez e ele dormiu em menos de um minuto. Chorei de alívio.&quot;</p>
+            <p className="testi-google-quote">&quot;I couldn&apos;t believe it. It was 2 a.m., my son had been up for over an hour. I did the 3 steps for the first time and he was asleep in under a minute. I cried with relief.&quot;</p>
           </div>
         </div>
       </section>
 
       <section className="get">
         <div className="get-wrap">
-          <h2>O que você recebe</h2>
-          <p>Tudo em um app, disponível no celular 24 horas. Para acessar no escuro, com o bebê no colo.</p>
+          <h2>What you get</h2>
+          <p>Everything in one app, on your phone 24/7. So you can access it in the dark, with the baby in your arms.</p>
           <div className="get-items">
             <div className="get-item">
               <div className="get-item-icon">🎬</div>
-              <h3>Vídeo demonstrativo</h3>
-              <p>Cada toque mostrado visualmente, no ritmo certo, para você aplicar com confiança já na primeira tentativa.</p>
+              <h3>Demonstration video</h3>
+              <p>Each step shown visually, at the right pace, so you can apply it with confidence from the first try.</p>
             </div>
             <div className="get-item">
               <div className="get-item-icon">📖</div>
-              <h3>Ebook completo</h3>
-              <p>Guia detalhado com explicações, variações por faixa etária e respostas para as dúvidas mais comuns.</p>
+              <h3>Complete ebook</h3>
+              <p>Detailed guide with explanations, age-based variations, and answers to the most common questions.</p>
             </div>
             <div className="get-item">
               <div className="get-item-icon">📱</div>
-              <h3>Acesso pelo app</h3>
-              <p>Sempre disponível. Sem precisar procurar e-mail, link ou PDF. Um toque e está lá.</p>
+              <h3>App access</h3>
+              <p>Always available. No digging for emails, links, or PDFs. One tap and it&apos;s there.</p>
             </div>
           </div>
         </div>
@@ -225,8 +225,8 @@ export default function App() {
 
       <section className="testimonials">
         <div className="testi-wrap">
-          <h2>O que as mães estão dizendo</h2>
-          <p>Mais de 2.000 famílias já usam o método.</p>
+          <h2>What parents are saying</h2>
+          <p>Over 2,000 families already use the method.</p>
           <div className="testi-grid">
             <div className="testi-google-card">
               <div className="testi-google-header">
@@ -234,7 +234,7 @@ export default function App() {
                   <div className="testi-google-avatar testi-google-avatar--initials">FL</div>
                   <div className="testi-google-meta">
                     <strong className="testi-google-name">Fernanda L.</strong>
-                    <span className="testi-google-sub">Mãe da Sofia, 7 meses</span>
+                    <span className="testi-google-sub">Mom of Sofia, 7 months</span>
                   </div>
                 </div>
                 <GoogleIcon />
@@ -245,10 +245,10 @@ export default function App() {
                 </div>
                 <div className="testi-google-verified testi-google-verified--dark">
                   <VerifiedBadge />
-                  <span>Verificado</span>
+                  <span>Verified</span>
                 </div>
               </div>
-              <p className="testi-google-quote testi-google-quote--dark">&quot;Já tinha comprado dois cursos de sono antes. Esse é o único que funcionou. É simples, prático e dá pra usar no mesmo dia.&quot;</p>
+              <p className="testi-google-quote testi-google-quote--dark">&quot;I&apos;d bought two sleep courses before. This is the only one that worked. It&apos;s simple, practical, and you can use it the same day.&quot;</p>
             </div>
 
             <div className="testi-google-card">
@@ -257,7 +257,7 @@ export default function App() {
                   <div className="testi-google-avatar testi-google-avatar--initials">AM</div>
                   <div className="testi-google-meta">
                     <strong className="testi-google-name">Ana Paula M.</strong>
-                    <span className="testi-google-sub">Mãe do Pedro e da Luísa</span>
+                    <span className="testi-google-sub">Mom of Pedro and Luísa</span>
                   </div>
                 </div>
                 <GoogleIcon />
@@ -268,10 +268,10 @@ export default function App() {
                 </div>
                 <div className="testi-google-verified testi-google-verified--dark">
                   <VerifiedBadge />
-                  <span>Verificado</span>
+                  <span>Verified</span>
                 </div>
               </div>
-              <p className="testi-google-quote testi-google-quote--dark">&quot;Meu marido era cético. Agora ele é o que mais usa. Funcionou com nossos dois filhos em idades diferentes. Virou parte da nossa rotina.&quot;</p>
+              <p className="testi-google-quote testi-google-quote--dark">&quot;My husband was skeptical. Now he&apos;s the one who uses it most. It worked with both our kids at different ages. It&apos;s part of our routine now.&quot;</p>
             </div>
 
             <div className="testi-google-card">
@@ -280,7 +280,7 @@ export default function App() {
                   <div className="testi-google-avatar testi-google-avatar--initials">MS</div>
                   <div className="testi-google-meta">
                     <strong className="testi-google-name">Mariana S.</strong>
-                    <span className="testi-google-sub">Mãe da Helena, 5 meses</span>
+                    <span className="testi-google-sub">Mom of Helena, 5 months</span>
                   </div>
                 </div>
                 <GoogleIcon />
@@ -291,10 +291,10 @@ export default function App() {
                 </div>
                 <div className="testi-google-verified testi-google-verified--dark">
                   <VerifiedBadge />
-                  <span>Verificado</span>
+                  <span>Verified</span>
                 </div>
               </div>
-              <p className="testi-google-quote testi-google-quote--dark">&quot;Fui cética no começo mas a garantia me deu coragem de tentar. Em três dias minha filha já estava dormindo muito melhor.&quot;</p>
+              <p className="testi-google-quote testi-google-quote--dark">&quot;I was skeptical at first but the guarantee gave me the courage to try. In three days my daughter was already sleeping much better.&quot;</p>
             </div>
           </div>
         </div>
@@ -302,8 +302,8 @@ export default function App() {
 
       <section className="transition">
         <div className="transition-wrap">
-          <h2>E se essa fosse a última noite <em>sem dormir?</em></h2>
-          <p>Você já tentou muita coisa. Dessa vez é diferente. É simples, é rápido, e funciona já na primeira tentativa. E se não funcionar, você tem 7 dias para pedir seu dinheiro de volta.</p>
+          <h2>What if this were the last night <em>without sleep?</em></h2>
+          <p>You&apos;ve already tried so much. This time it&apos;s different. It&apos;s simple, it&apos;s quick, and it works on the first try. And if it doesn&apos;t work, you have 7 days to get your money back.</p>
         </div>
       </section>
 
@@ -311,27 +311,27 @@ export default function App() {
         <div className="offer-wrap">
           <div className="offer-box">
             <div className="offer-box-top">
-              <p className="price-from">De $97</p>
+              <p className="price-from">From $97</p>
               <div className="price"><sup>$</sup>27</div>
-              <p className="price-note">pagamento único · acesso vitalício</p>
+              <p className="price-note">one-time payment · lifetime access</p>
             </div>
 
             <ul className="offer-includes">
-              <li>Vídeo demonstrativo dos 3 toques</li>
-              <li>Ebook completo com guia detalhado</li>
-              <li>Variações por faixa etária (0 a 18 meses)</li>
-              <li>Acesso pelo app 24 horas</li>
-              <li>Atualizações gratuitas para sempre</li>
+              <li>Demonstration video of the 3 steps</li>
+              <li>Complete ebook with detailed guide</li>
+              <li>Age-based variations (0 to 18 months)</li>
+              <li>24/7 app access</li>
+              <li>Free updates forever</li>
             </ul>
 
-            <button className="btn-offer" type="button" onClick={() => alert('Integração com checkout aqui')}>
-              Quero minha cópia agora
-              <span>Acesso liberado em instantes</span>
-            </button>
+            <a href="https://pay.hotmart.com/I103988905G?checkoutMode=10" className="btn-offer" target="_blank" rel="noopener noreferrer">
+              Get my copy now
+              <span>Access in seconds</span>
+            </a>
 
             <div className="guarantee">
-              <strong>🛡️ Garantia de 7 dias</strong>
-              Se não funcionar ou você não ficar satisfeita por qualquer motivo, devolvemos 100% do valor. Sem perguntas.
+              <strong>🛡️ 7-day guarantee</strong>
+              If it doesn&apos;t work or you&apos;re not satisfied for any reason, we&apos;ll refund 100%. No questions asked.
             </div>
           </div>
         </div>
@@ -339,44 +339,44 @@ export default function App() {
 
       <section className="faq">
         <div className="faq-wrap">
-          <h2>Dúvidas frequentes</h2>
+          <h2>Frequently asked questions</h2>
 
           <div className="faq-item">
-            <div className="faq-q">A partir de qual idade funciona?</div>
-            <div className="faq-a">O método foi desenvolvido para bebês de 0 a 18 meses. O guia traz variações específicas por faixa etária para você aplicar da forma certa em cada fase.</div>
+            <div className="faq-q">From what age does it work?</div>
+            <div className="faq-a">The method was developed for babies 0 to 18 months. The guide includes specific variations by age so you can apply it correctly at each stage.</div>
           </div>
 
           <div className="faq-item">
-            <div className="faq-q">E se não funcionar com o meu bebê?</div>
-            <div className="faq-a">Você tem 7 dias de garantia total. Se não funcionar ou se não ficar satisfeita por qualquer motivo, basta pedir o reembolso e devolvemos 100% do valor pago. Sem questionamentos.</div>
+            <div className="faq-q">What if it doesn&apos;t work for my baby?</div>
+            <div className="faq-a">You have a full 7-day guarantee. If it doesn&apos;t work or you&apos;re not satisfied for any reason, just request a refund and we&apos;ll return 100% of what you paid. No questions asked.</div>
           </div>
 
           <div className="faq-item">
-            <div className="faq-q">Como acesso o conteúdo?</div>
-            <div className="faq-a">Imediatamente após o pagamento você recebe acesso ao app com o vídeo e o ebook. Disponível no celular a qualquer hora do dia ou da noite.</div>
+            <div className="faq-q">How do I access the content?</div>
+            <div className="faq-a">Right after payment you get access to the app with the video and ebook. Available on your phone anytime, day or night.</div>
           </div>
 
           <div className="faq-item">
-            <div className="faq-q">Precisa ter algum conhecimento especial?</div>
-            <div className="faq-a">Nenhum. Se você consegue segurar seu bebê, consegue fazer os 3 toques. O vídeo mostra tudo com calma e detalhe.</div>
+            <div className="faq-q">Do I need any special knowledge?</div>
+            <div className="faq-a">No. If you can hold your baby, you can do the 3 steps. The video shows everything clearly and in detail.</div>
           </div>
 
           <div className="faq-item">
-            <div className="faq-q">Funciona para bebês que já têm vício de colo?</div>
-            <div className="faq-a">Sim. Você pode fazer os 3 toques com o bebê no colo e transferi-lo para o berço já dormindo. Muitas mães começam assim e aos poucos o bebê aprende a adormecer sozinho.</div>
+            <div className="faq-q">Does it work for babies who need to be held to sleep?</div>
+            <div className="faq-a">Yes. You can do the 3 steps with the baby in your arms and then transfer them to the crib already asleep. Many parents start this way and gradually the baby learns to fall asleep on their own.</div>
           </div>
 
           <div className="faq-item">
-            <div className="faq-q">Funciona para bebês amamentados?</div>
-            <div className="faq-a">Sim. O método é independente de como você alimenta seu bebê. Funciona com amamentação, fórmula ou qualquer combinação.</div>
+            <div className="faq-q">Does it work for breastfed babies?</div>
+            <div className="faq-a">Yes. The method is independent of how you feed your baby. It works with breastfeeding, formula, or any combination.</div>
           </div>
         </div>
       </section>
 
       <footer>
-        <p>© 2025 Baby Sleep Method · Sofia Martins</p>
-        <p><a href="#">Política de Privacidade</a> · <a href="#">Termos de Uso</a></p>
-        <p style={{ marginTop: 8, fontSize: 12 }}>Este conteúdo é educacional e não substitui orientação médica ou pediátrica.</p>
+        <p>© 2025 A 3-step baby massage · Sofia Martins</p>
+        <p><a href="#">Privacy Policy</a> · <a href="#">Terms of Use</a></p>
+        <p style={{ marginTop: 8, fontSize: 12 }}>This content is for educational purposes and does not replace medical or pediatric advice.</p>
       </footer>
 
     </>
