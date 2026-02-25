@@ -74,7 +74,7 @@ export default function App() {
             </div>
           </div>
 
-          <h1>The 3-step baby massage that gets any baby to sleep in <em>under 30 seconds.</em></h1>
+          <h1>The 3-step Danish method that will get your baby to sleep in <em>under 30 seconds.</em></h1>
 
           <p className="hero-sub">No crying. No fuss. No complicated method. <strong>Just 3 simple moves</strong> any parent can learn today.</p>
 
@@ -138,37 +138,44 @@ export default function App() {
 
       <section className="method">
         <div className="method-wrap">
-          <h2>A 3-step baby massage</h2>
+          <h2>The Danish Method</h2>
 
-          <p>It&apos;s not magic. It&apos;s physiology. A baby&apos;s nervous system responds in a very predictable way to specific tactile stimuli. The 3 steps were designed to trigger that response in sequence, bringing the baby into deep relaxation in seconds.</p>
+          <p>The Danish Method was born from observing something simple yet powerful: in Scandinavian countries, baby care has always been based on touch, rhythm, and predictability.</p>
 
-          <p>What sets this apart from a regular massage is the combination of <strong>location, pressure, and rhythm</strong>. Every detail matters, and that&apos;s exactly what the guide teaches.</p>
+          <p>In cultures like the Danish one, touch is not just affection — it&apos;s nervous system regulation. Midwives and childcare professionals have used gentle physical contact sequences for decades to help babies slow down, regulate their breathing, and enter deep states of calm.</p>
+
+          <p>Inspired by this European tradition of respectful, natural care, the 3-step Danish Method was structured as a simple, repeatable, and predictable protocol that guides the baby&apos;s body from a state of alertness to a state of relaxation in minutes — often in seconds.</p>
+
+          <p>It&apos;s not a random ritual. It&apos;s a sequence designed to mimic the safety and predictability patterns that the baby&apos;s nervous system recognizes as a signal for rest.</p>
+
+          <p className="method-intro">The method is divided into three complementary neuro-sensory phases:</p>
 
           <div className="touches">
             <div className="touch">
-              <div className="touch-num">1</div>
+              <div className="touch-num">🫶</div>
               <div>
-                <h3>The Head Touch</h3>
-                <p>Gentle movement on the scalp that activates relaxation receptors and slows the baby&apos;s nervous system. It&apos;s the first step and sets up everything that follows.</p>
+                <h3>1. Sensory Anchoring Phase</h3>
+                <p>Here, touch is applied at specific points to reduce the nervous system&apos;s state of alert. The goal is to &quot;anchor&quot; the baby&apos;s body in a feeling of safety and predictability.</p>
+                <p className="touch-function"><strong>Physiological function:</strong> reduce overstimulation and trigger the relaxation response.</p>
               </div>
             </div>
             <div className="touch">
-              <div className="touch-num">2</div>
+              <div className="touch-num">🌬️</div>
               <div>
-                <h3>The Chest Touch</h3>
-                <p>Light, rhythmic pressure on the sternum that syncs the baby&apos;s breathing and recreates the sense of safety they felt in the womb.</p>
+                <h3>2. Rhythm–Breathing Regulation Phase</h3>
+                <p>In this step, the rhythm of touch follows a slow, steady pattern, helping the baby&apos;s body sync breathing and heart rate with a calmer state.</p>
+                <p className="touch-function"><strong>Physiological function:</strong> activate the parasympathetic system, responsible for rest and recovery.</p>
               </div>
             </div>
             <div className="touch">
-              <div className="touch-num">3</div>
+              <div className="touch-num">🌙</div>
               <div>
-                <h3>The Foot Touch</h3>
-                <p>Stimulation of a specific point on the sole of the foot that releases built-up tension and signals the brain that it&apos;s time to rest. It&apos;s the step that closes the cycle.</p>
+                <h3>3. Sleep Induction Phase</h3>
+                <p>Here, the stimuli become softer and more spaced out, signaling to the nervous system that the body can switch off and enter rest mode.</p>
+                <p className="touch-function"><strong>Physiological function:</strong> ease the transition from wakefulness to sleep.</p>
               </div>
             </div>
           </div>
-
-          <p>In the guide I show exactly where to touch, how much pressure to use, for how long, and in what order. There&apos;s video for each step and variations by age.</p>
         </div>
       </section>
 
