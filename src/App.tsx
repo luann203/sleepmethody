@@ -74,16 +74,16 @@ export default function App() {
             </div>
           </div>
 
-          <h1>The 3-step Danish method that will get your baby to sleep in <em>under 30 seconds.</em></h1>
+          <h1>The Danish method that will get your baby sleeping <em>12 hours straight in up to 3 days.</em></h1>
 
-          <p className="hero-sub">No crying. No fuss. No complicated method. <strong>Just 3 simple moves</strong> any parent can learn today.</p>
+          <p className="hero-sub">Or your money back — no questions asked.</p>
 
           <div className="hero-cta-wrap">
             <button className="btn-main" type="button" onClick={scrollToOffer}>
-              I want to learn the 3 steps
+              Get instant access now
               <span>Instant access for just $27</span>
             </button>
-            <p className="hero-reassure">🔒 7-day guarantee · no questions asked</p>
+            <p className="hero-reassure">🔒 30-day money-back guarantee · no questions asked</p>
           </div>
         </div>
       </section>
@@ -92,19 +92,21 @@ export default function App() {
         <div className="pain-wrap">
           <h2>If you&apos;re reading this, you&apos;re probably exhausted.</h2>
 
-          <p>Not the kind of tired that one good night&apos;s sleep fixes. It&apos;s the kind that builds up day after day, night after night, until you can barely remember your own name.</p>
+          <p>If you&apos;re reading this, you&apos;re probably exhausted.</p>
 
-          <p>You love your baby more than anything. But some nights you&apos;re on the floor—literally—not knowing what else to try. You&apos;ve tried music, nursing, hours of holding, ninja-mode transfers. <strong>Sometimes it works. Sometimes it doesn&apos;t.</strong> And that uncertainty is what wears you out the most.</p>
+          <p>You&apos;ve likely tried everything: rocking, white noise, relaxing music, baby massage... and nothing has truly worked.</p>
 
-          <ul className="pain-list">
-            <li>You wake up with the baby every hour at night</li>
-            <li>You spend hours trying to get them to sleep</li>
-            <li>You&apos;ve read everything and everyone says something different</li>
-            <li>You feel guilty when you cry along with the baby</li>
-            <li>You&apos;re exhausted but afraid to try something new</li>
-          </ul>
+          <p>Your baby still wakes up multiple times during the night.</p>
 
-          <p className="pain-close">You&apos;re not doing anything wrong. Nobody ever taught you what actually works.</p>
+          <p>And you&apos;re drained, with no energy, irritable, and feeling guilty for not being able to help your child sleep.</p>
+
+          <p>I know exactly how you feel because I&apos;ve been there.</p>
+
+          <p>And after months of research and desperation, I discovered the Danish infant sleep method — used for decades in Denmark, where babies naturally sleep 12 hours straight.</p>
+
+          <p>I adapted this method to modern parenting and created a simple protocol that works in up to 3 days.</p>
+
+          <p className="pain-close">Your baby sleeping 12 hours straight in up to 3 days or your money back.</p>
         </div>
       </section>
 
@@ -118,17 +120,19 @@ export default function App() {
             <div className="about-content">
               <h2>Hi, I&apos;m Sofia.</h2>
 
-              <p>I&apos;ve been an infant sleep consultant for over 8 years. I&apos;ve worked with more than 2,000 families—from newborns to 2-year-olds—in all kinds of situations and contexts.</p>
+              <p>I&apos;m a mother, just like you, and I spent months without sleeping a full night.</p>
 
-              <p>I&apos;m not a doctor. I&apos;m not a pediatrician. And that, in my view, is exactly what gives me a different perspective. I see what happens <strong>after the appointment ends</strong>—inside real homes, in the middle of the night, with real parents at their limit.</p>
+              <p>I tried absolutely everything I found online, listened to all the advice (much of it contradictory), and nothing worked.</p>
 
-              <div className="about-highlight">
-                &quot;I learned the 3-step baby massage from older women in my family. It was a natural gesture, with no name, no protocol. Something they did without thinking.&quot;
-              </div>
+              <p>Until I discovered the Danish method.</p>
 
-              <p>This kind of knowledge doesn&apos;t come from a doctor&apos;s office. It&apos;s passed hand to hand, mother to daughter. It took me years to understand the mechanism behind it, study infant sleep physiology, test it with hundreds of real families, and refine every detail of the sequence.</p>
+              <p>Denmark has the best-sleeping babies in the world. And it&apos;s not by chance.</p>
 
-              <p>What you&apos;ll learn here isn&apos;t theory. It&apos;s a technique refined over years of practice, with results I&apos;ve seen up close.</p>
+              <p>They developed a method based on science, routine, and respect for the baby&apos;s natural rhythm — no crying, no stress, no guilt.</p>
+
+              <p>When I applied it with my daughter, in 2 days she was already sleeping 8 hours straight. On the third day, it was 12 uninterrupted hours.</p>
+
+              <p>Since then, I&apos;ve helped over 2,700 mothers transform their nights and recover their sanity, energy, and connection with their babies.</p>
             </div>
           </div>
         </div>
@@ -139,43 +143,73 @@ export default function App() {
       <section className="method">
         <div className="method-wrap">
           <h2>The Danish Method</h2>
+          <p className="method-subtitle">The Scandinavian secret to babies who sleep through the night</p>
 
-          <p>The Danish Method was born from observing something simple yet powerful: in Scandinavian countries, baby care has always been based on touch, rhythm, and predictability.</p>
+          <p>In Denmark, babies sleeping 12 hours straight isn&apos;t the exception — it&apos;s the rule.</p>
 
-          <p>In cultures like the Danish one, touch is not just affection — it&apos;s nervous system regulation. Midwives and childcare professionals have used gentle physical contact sequences for decades to help babies slow down, regulate their breathing, and enter deep states of calm.</p>
-
-          <p>Inspired by this European tradition of respectful, natural care, the 3-step Danish Method was structured as a simple, repeatable, and predictable protocol that guides the baby&apos;s body from a state of alertness to a state of relaxation in minutes — often in seconds.</p>
-
-          <p>It&apos;s not a random ritual. It&apos;s a sequence designed to mimic the safety and predictability patterns that the baby&apos;s nervous system recognizes as a signal for rest.</p>
-
-          <p className="method-intro">The method is divided into three complementary neuro-sensory phases:</p>
+          <p>The Danish method is based on three scientific pillars:</p>
 
           <div className="touches">
             <div className="touch">
-              <div className="touch-num">🫶</div>
+              <div className="touch-num">1</div>
               <div>
-                <h3>1. Sensory Anchoring Phase</h3>
-                <p>Here, touch is applied at specific points to reduce the nervous system&apos;s state of alert. The goal is to &quot;anchor&quot; the baby&apos;s body in a feeling of safety and predictability.</p>
-                <p className="touch-function"><strong>Physiological function:</strong> reduce overstimulation and trigger the relaxation response.</p>
+                <h3>Natural circadian regulation</h3>
+                <p>Alignment of the baby&apos;s biological rhythm through sun exposure, predictable routines, and controlled environment.</p>
               </div>
             </div>
             <div className="touch">
-              <div className="touch-num">🌬️</div>
+              <div className="touch-num">2</div>
               <div>
-                <h3>2. Rhythm–Breathing Regulation Phase</h3>
-                <p>In this step, the rhythm of touch follows a slow, steady pattern, helping the baby&apos;s body sync breathing and heart rate with a calmer state.</p>
-                <p className="touch-function"><strong>Physiological function:</strong> activate the parasympathetic system, responsible for rest and recovery.</p>
+                <h3>Progressive sleep autonomy</h3>
+                <p>The baby learns to fall asleep independently in a gradual and respectful way — no controlled crying, no abandonment.</p>
               </div>
             </div>
             <div className="touch">
-              <div className="touch-num">🌙</div>
+              <div className="touch-num">3</div>
               <div>
-                <h3>3. Sleep Induction Phase</h3>
-                <p>Here, the stimuli become softer and more spaced out, signaling to the nervous system that the body can switch off and enter rest mode.</p>
-                <p className="touch-function"><strong>Physiological function:</strong> ease the transition from wakefulness to sleep.</p>
+                <h3>Constant emotional security</h3>
+                <p>Consistent maternal presence during the process, creating an environment of absolute trust.</p>
               </div>
             </div>
           </div>
+
+          <p>Unlike American methods based on &quot;cry it out,&quot; the Danish method respects the baby&apos;s emotional needs while establishing clear and healthy boundaries.</p>
+        </div>
+      </section>
+
+      <section className="plan">
+        <div className="plan-wrap">
+          <h2>A simple, nurturing plan</h2>
+          <p className="plan-subtitle">No crying, no guilt, no stress — just science applied with love</p>
+          <div className="plan-days">
+            <div className="plan-day">
+              <h3>Day 1: Foundation Reset</h3>
+              <p>Environment adjustment and circadian routine creation — complete preparation of the baby&apos;s nervous system for deep sleep.</p>
+            </div>
+            <div className="plan-day">
+              <h3>Day 2: Sleep Association Building</h3>
+              <p>Implementation of Danish techniques for progressive autonomy — your baby begins to fall asleep independently naturally.</p>
+            </div>
+            <div className="plan-day">
+              <h3>Day 3: 12-Hour Consolidation</h3>
+              <p>Sleep pattern consolidation — the first complete 12-hour night (and all the following ones).</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section className="keys">
+        <div className="keys-wrap">
+          <h2>3 keys unlock peace</h2>
+          <p className="keys-intro">You don&apos;t need 15 different methods. You need a scientific protocol that works.</p>
+          <p>The Baby Sleep Method is based on the Danish method adapted for modern parenting:</p>
+          <ul className="keys-list">
+            <li>Complete 3-day day-by-day protocol</li>
+            <li>Adjustments by age range (0-3 months, 3-6 months, 6-12 months, 12-24 months)</li>
+            <li>Environment optimized for deep sleep</li>
+            <li>Emotional regulation techniques without crying</li>
+            <li>Complete troubleshooting for specific situations</li>
+          </ul>
         </div>
       </section>
 
@@ -184,10 +218,10 @@ export default function App() {
           <div className="testi-google-card testi-google-card--single">
             <div className="testi-google-header">
               <div className="testi-google-author">
-                <div className="testi-google-avatar testi-google-avatar--initials">CR</div>
+                <div className="testi-google-avatar testi-google-avatar--initials">JM</div>
                 <div className="testi-google-meta">
-                  <strong className="testi-google-name">Camila R.</strong>
-                  <span className="testi-google-sub">Mom of Miguel, 4 months</span>
+                  <strong className="testi-google-name">Jessica M.</strong>
+                  <span className="testi-google-sub">Mother of 8-month-old Emma</span>
                 </div>
               </div>
               <GoogleIcon />
@@ -201,7 +235,7 @@ export default function App() {
                 <span>Verified</span>
               </div>
             </div>
-            <p className="testi-google-quote">&quot;I couldn&apos;t believe it. It was 2 a.m., my son had been up for over an hour. I did the 3 steps for the first time and he was asleep in under a minute. I cried with relief.&quot;</p>
+            <p className="testi-google-quote">&quot;In just 2 nights, my daughter went from waking every 2 hours to sleeping 11 hours straight. By night 3, she was sleeping 12 hours. I cried tears of joy. This method saved my sanity and my marriage.&quot;</p>
           </div>
         </div>
       </section>
@@ -209,22 +243,22 @@ export default function App() {
       <section className="get">
         <div className="get-wrap">
           <h2>What you get</h2>
-          <p>Everything in one app, on your phone 24/7. So you can access it in the dark, with the baby in your arms.</p>
+          <p>Everything you need to transform your nights in 3 days</p>
           <div className="get-items">
             <div className="get-item">
-              <div className="get-item-icon">🎬</div>
-              <h3>Demonstration video</h3>
-              <p>Each step shown visually, at the right pace, so you can apply it with confidence from the first try.</p>
-            </div>
-            <div className="get-item">
               <div className="get-item-icon">📖</div>
-              <h3>Complete ebook</h3>
-              <p>Detailed guide with explanations, age-based variations, and answers to the most common questions.</p>
+              <h3>The Complete Guide</h3>
+              <p>The full Danish Method protocol — step-by-step for 3 days, with detailed explanations of the science behind each technique.</p>
             </div>
             <div className="get-item">
-              <div className="get-item-icon">📱</div>
-              <h3>App access</h3>
-              <p>Always available. No digging for emails, links, or PDFs. One tap and it&apos;s there.</p>
+              <div className="get-item-icon">🎥</div>
+              <h3>Video Tutorials</h3>
+              <p>Visual demonstrations of every technique, environment setup, and soothing method — so you never feel lost.</p>
+            </div>
+            <div className="get-item">
+              <div className="get-item-icon">📋</div>
+              <h3>Daily Checklists</h3>
+              <p>Print-ready daily action plans — just follow the steps, no guesswork.</p>
             </div>
           </div>
         </div>
@@ -233,15 +267,13 @@ export default function App() {
       <section className="testimonials">
         <div className="testi-wrap">
           <h2>What parents are saying</h2>
-          <p>Over 2,000 families already use the method.</p>
           <div className="testi-grid">
             <div className="testi-google-card">
               <div className="testi-google-header">
                 <div className="testi-google-author">
-                  <div className="testi-google-avatar testi-google-avatar--initials">FL</div>
+                  <div className="testi-google-avatar testi-google-avatar--initials">AP</div>
                   <div className="testi-google-meta">
-                    <strong className="testi-google-name">Fernanda L.</strong>
-                    <span className="testi-google-sub">Mom of Sofia, 7 months</span>
+                    <strong className="testi-google-name">Amanda P.</strong>
                   </div>
                 </div>
                 <GoogleIcon />
@@ -255,16 +287,15 @@ export default function App() {
                   <span>Verified</span>
                 </div>
               </div>
-              <p className="testi-google-quote testi-google-quote--dark">&quot;I&apos;d bought two sleep courses before. This is the only one that worked. It&apos;s simple, practical, and you can use it the same day.&quot;</p>
+              <p className="testi-google-quote testi-google-quote--dark">&quot;12 hours on night 3 — I couldn&apos;t believe it. I was skeptical, but desperate. Night 1 was 6 hours, night 2 was 9 hours, night 3 was 12 HOURS STRAIGHT. My baby is happier, I&apos;m human again.&quot;</p>
             </div>
 
             <div className="testi-google-card">
               <div className="testi-google-header">
                 <div className="testi-google-author">
-                  <div className="testi-google-avatar testi-google-avatar--initials">AM</div>
+                  <div className="testi-google-avatar testi-google-avatar--initials">CS</div>
                   <div className="testi-google-meta">
-                    <strong className="testi-google-name">Ana Paula M.</strong>
-                    <span className="testi-google-sub">Mom of Pedro and Luísa</span>
+                    <strong className="testi-google-name">Carolina S.</strong>
                   </div>
                 </div>
                 <GoogleIcon />
@@ -278,16 +309,15 @@ export default function App() {
                   <span>Verified</span>
                 </div>
               </div>
-              <p className="testi-google-quote testi-google-quote--dark">&quot;My husband was skeptical. Now he&apos;s the one who uses it most. It worked with both our kids at different ages. It&apos;s part of our routine now.&quot;</p>
+              <p className="testi-google-quote testi-google-quote--dark">&quot;Better than any sleep consultant. I almost hired a $2,000 sleep consultant. Found this for $27 instead. Same Danish method they use. Worked in 2 days. Best investment ever.&quot;</p>
             </div>
 
             <div className="testi-google-card">
               <div className="testi-google-header">
                 <div className="testi-google-author">
-                  <div className="testi-google-avatar testi-google-avatar--initials">MS</div>
+                  <div className="testi-google-avatar testi-google-avatar--initials">MT</div>
                   <div className="testi-google-meta">
-                    <strong className="testi-google-name">Mariana S.</strong>
-                    <span className="testi-google-sub">Mom of Helena, 5 months</span>
+                    <strong className="testi-google-name">Mariana T.</strong>
                   </div>
                 </div>
                 <GoogleIcon />
@@ -301,7 +331,7 @@ export default function App() {
                   <span>Verified</span>
                 </div>
               </div>
-              <p className="testi-google-quote testi-google-quote--dark">&quot;I was skeptical at first but the guarantee gave me the courage to try. In three days my daughter was already sleeping much better.&quot;</p>
+              <p className="testi-google-quote testi-google-quote--dark">&quot;Finally, science that works. No crying, no guilt, just results. My 7-month-old now sleeps 12 hours every single night. Life-changing.&quot;</p>
             </div>
           </div>
         </div>
@@ -310,7 +340,8 @@ export default function App() {
       <section className="transition">
         <div className="transition-wrap">
           <h2>What if this were the last night <em>without sleep?</em></h2>
-          <p>You&apos;ve already tried so much. This time it&apos;s different. It&apos;s simple, it&apos;s quick, and it works on the first try. And if it doesn&apos;t work, you have 7 days to get your money back.</p>
+          <p>Your baby sleeping peacefully in their crib. No more waking up every 2 hours. No more exhaustion. No more guilt.</p>
+          <p>Peaceful nights, energized mornings, and the joy of being the mother you always wanted to be. This can be your reality in just 3 days.</p>
         </div>
       </section>
 
@@ -324,21 +355,21 @@ export default function App() {
             </div>
 
             <ul className="offer-includes">
-              <li>Demonstration video of the 3 steps</li>
-              <li>Complete ebook with detailed guide</li>
-              <li>Age-based variations (0 to 18 months)</li>
-              <li>24/7 app access</li>
-              <li>Free updates forever</li>
+              <li>The Complete Guide — full Danish Method protocol, step-by-step for 3 days</li>
+              <li>Video tutorials — every technique and environment setup</li>
+              <li>Daily checklists — print-ready action plans</li>
+              <li>Age-based adjustments (0-24 months)</li>
+              <li>Lifetime access + free updates</li>
             </ul>
 
             <a href="https://pay.hotmart.com/I103988905G?checkoutMode=10" className="btn-offer" target="_blank" rel="noopener noreferrer">
-              Get my copy now
+              Get instant access now
               <span>Access in seconds</span>
             </a>
 
             <div className="guarantee">
-              <strong>🛡️ 7-day guarantee</strong>
-              If it doesn&apos;t work or you&apos;re not satisfied for any reason, we&apos;ll refund 100%. No questions asked.
+              <strong>🛡️ 30-day guarantee</strong>
+              If your baby isn&apos;t sleeping significantly better within 3 days, just send us an email and we&apos;ll refund 100% of your money. No questions asked.
             </div>
           </div>
         </div>
@@ -349,39 +380,44 @@ export default function App() {
           <h2>Frequently asked questions</h2>
 
           <div className="faq-item">
-            <div className="faq-q">From what age does it work?</div>
-            <div className="faq-a">The method was developed for babies 0 to 18 months. The guide includes specific variations by age so you can apply it correctly at each stage.</div>
+            <div className="faq-q">Will this work for my baby&apos;s age?</div>
+            <div className="faq-a">Yes. The method includes specific protocols for ages 0-24 months, with adjustments for each developmental stage.</div>
           </div>
 
           <div className="faq-item">
-            <div className="faq-q">What if it doesn&apos;t work for my baby?</div>
-            <div className="faq-a">You have a full 7-day guarantee. If it doesn&apos;t work or you&apos;re not satisfied for any reason, just request a refund and we&apos;ll return 100% of what you paid. No questions asked.</div>
+            <div className="faq-q">Is this &quot;cry it out&quot;?</div>
+            <div className="faq-a">Absolutely not. The Danish method is the opposite of cry-it-out. It&apos;s based on emotional security, gradual autonomy, and respect for the baby&apos;s needs.</div>
           </div>
 
           <div className="faq-item">
-            <div className="faq-q">How do I access the content?</div>
-            <div className="faq-a">Right after payment you get access to the app with the video and ebook. Available on your phone anytime, day or night.</div>
+            <div className="faq-q">What if it doesn&apos;t work in 3 days?</div>
+            <div className="faq-a">The vast majority of babies sleep 10-12 hours by day 3. But every baby is different. That&apos;s why we offer a 30-day money-back guarantee — you have a full month to see results.</div>
           </div>
 
           <div className="faq-item">
-            <div className="faq-q">Do I need any special knowledge?</div>
-            <div className="faq-a">No. If you can hold your baby, you can do the 3 steps. The video shows everything clearly and in detail.</div>
+            <div className="faq-q">Do I need to buy anything else?</div>
+            <div className="faq-a">No. Everything you need is included. No special equipment, no expensive gadgets — just the method.</div>
           </div>
 
           <div className="faq-item">
-            <div className="faq-q">Does it work for babies who need to be held to sleep?</div>
-            <div className="faq-a">Yes. You can do the 3 steps with the baby in your arms and then transfer them to the crib already asleep. Many parents start this way and gradually the baby learns to fall asleep on their own.</div>
+            <div className="faq-q">Is this safe for newborns?</div>
+            <div className="faq-a">Yes. The method includes specific adaptations for newborns (0-3 months) that respect their feeding and developmental needs.</div>
           </div>
 
           <div className="faq-item">
-            <div className="faq-q">Does it work for breastfed babies?</div>
-            <div className="faq-a">Yes. The method is independent of how you feed your baby. It works with breastfeeding, formula, or any combination.</div>
+            <div className="faq-q">Can I get a refund if it doesn&apos;t work?</div>
+            <div className="faq-a">Absolutely. 30-day money-back guarantee, no questions asked. Just email us and we&apos;ll process your refund immediately.</div>
           </div>
         </div>
       </section>
 
       <footer>
-        <p>© 2025 A 3-step baby massage · Sofia Martins</p>
+        <p className="footer-cta-title">Your baby can sleep 12 hours tonight.</p>
+        <p>
+          <a href="https://pay.hotmart.com/I103988905G?checkoutMode=10" target="_blank" rel="noopener noreferrer" className="footer-cta-link">Get instant access now — $27</a>
+        </p>
+        <p className="footer-guarantee">30-day money-back guarantee</p>
+        <p style={{ marginTop: 24 }}>© 2025 Baby Sleep Method · Sofia Martins</p>
         <p><a href="#">Privacy Policy</a> · <a href="#">Terms of Use</a></p>
         <p style={{ marginTop: 8, fontSize: 12 }}>This content is for educational purposes and does not replace medical or pediatric advice.</p>
       </footer>
