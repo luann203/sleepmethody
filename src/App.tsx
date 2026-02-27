@@ -81,7 +81,7 @@ export default function App() {
           <div className="hero-cta-wrap">
             <button className="btn-main" type="button" onClick={scrollToOffer}>
               Get instant access now
-              <span>Instant access for just $27</span>
+              <span>Instant access for just $15</span>
             </button>
             <p className="hero-reassure">🔒 30-day money-back guarantee · no questions asked</p>
           </div>
@@ -309,7 +309,7 @@ export default function App() {
                   <span>Verified</span>
                 </div>
               </div>
-              <p className="testi-google-quote testi-google-quote--dark">&quot;Better than any sleep consultant. I almost hired a $2,000 sleep consultant. Found this for $27 instead. Same Danish method they use. Worked in 2 days. Best investment ever.&quot;</p>
+              <p className="testi-google-quote testi-google-quote--dark">&quot;Better than any sleep consultant. I almost hired a $2,000 sleep consultant. Found this for $15 instead. Same Danish method they use. Worked in 2 days. Best investment ever.&quot;</p>
             </div>
 
             <div className="testi-google-card">
@@ -350,7 +350,7 @@ export default function App() {
           <div className="offer-box">
             <div className="offer-box-top">
               <p className="price-from">From $97</p>
-              <div className="price"><sup>$</sup>27</div>
+              <div className="price"><sup>$</sup>15</div>
               <p className="price-note">one-time payment · lifetime access</p>
             </div>
 
@@ -414,7 +414,7 @@ export default function App() {
       <footer>
         <p className="footer-cta-title">Your baby can sleep 12 hours tonight.</p>
         <p>
-          <a href="https://pay.hotmart.com/I103988905G?checkoutMode=10" target="_blank" rel="noopener noreferrer" className="footer-cta-link">Get instant access now — $27</a>
+          <a href="https://pay.hotmart.com/I103988905G?checkoutMode=10" target="_blank" rel="noopener noreferrer" className="footer-cta-link">Get instant access now — $15</a>
         </p>
         <p className="footer-guarantee">30-day money-back guarantee</p>
         <p style={{ marginTop: 24 }}>© 2025 Baby Sleep Method · Sofia Martins</p>
